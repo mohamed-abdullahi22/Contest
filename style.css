@@ -1,0 +1,76 @@
+nav{
+	background-color: black;
+	padding: 3px;
+	padding-top: 1px;
+	overflow: hidden;
+	position: relative;
+	word-spacing: 5px;
+	font-size: 35px;
+}
+ul li{
+	float: left;
+	padding: 5px;
+	padding-top: 20px;
+	list-style-type: none;
+	text-decoration: none;
+}
+#first{
+font-size: 20px;	
+background-size: cover;
+padding: 40px;
+background-image: url(garden.jfif);
+height: 150px;
+background-position: center;
+position: relative;
+text-align: center;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+img{
+border-radius: 50%;
+display: flex;
+float: right;
+}
+#div4{
+	float: left;
+	border-radius: 40px;
+	align-items: center;
+}
+#footer{
+ background-color: black;
+ padding-top: 10px;
+ width: auto;
+ height: 200px;
+ color: white;
+ font-size: 35px;
+}
+table, tr, td{
+	margin-right: auto;
+	margin-left: auto;
+	border-collapse: collapse;
+}
+#info{
+	width: auto;
+	height: auto;
+	float: right;	
+}
+#jouralist{
+float: left;
+width: auto;
+height: auto;
+}
+#sub-container{
+	display: flex;
+    border-radius: 20%;
+}
+#naleye-pict{
+border-radius: 70%;
+float: left;
+}
+p{
+	margin: 0;
+	margin-top: 0;
+	padding: 0;
+}
